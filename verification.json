@@ -1,0 +1,25 @@
+{
+  "format": "image/png",
+  "width": 3840,
+  "height": 2160,
+  "insertionBoundingBox": {
+    "x": 2600,
+    "y": 320,
+    "width": 900,
+    "height": 600
+  },
+  "insertionAreaPercent": 6.510416666666667,
+  "changedPixelBoundingBox": {
+    "x": 2650,
+    "y": 395,
+    "width": 800,
+    "height": 377
+  },
+  "changedPixels": 96087,
+  "outsideChangedPixels": 0,
+  "sourceSha256": "ad271ffcbf6b7501f29d24af90c89c47deb4ba2c37fa2516615c3158fa175a99",
+  "sourcePixelSha256": "3852a2ea18bd6d71f72404ad47f17ddab746f94a992d144e3f4d2dcd0f636753",
+  "originalAreaSha256": "02a4abc5bf458e0f39a129fcff04acc8248567fab689894e7d1cc471e90ae15c",
+  "outputSha256": "c9190c2b6d02e4eada59c7a7b212ef81416ebf31febb5e347ce61f45de8c37be",
+  "miniatureSha256": "7d155f9af5f5c70906247b90fa6bf0c86f4ee22f21ef305103f38decfd7c59a7"
+}
